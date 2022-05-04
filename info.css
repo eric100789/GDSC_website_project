@@ -64,3 +64,25 @@ body{
 .inputbox{
 	margin-right:10px;
 }
+.Homepage_Info{
+	float:right;
+}
+.block{
+	width:300px;
+	height:80px;
+	background:white;
+}
+.Homepage_Banner{
+	width:550px;
+	height:200px;
+	margin-left:12.5px;
+	margin-right:12.5px;
+}
+.Banner_Group{
+	margin-left:auto;
+	margin-right:auto;
+	display:flex;
+	flex-direction:row;
+	width:1750px;
+	height:200px;
+}

@@ -5,4 +5,4 @@ imgInp.onchange = evt => {
     blah.src = URL.createObjectURL(file)
   }
 }
-document.getElementById("name").innerHTML = "Name";
+document.getElementById("name").innerHTML = "Name:";

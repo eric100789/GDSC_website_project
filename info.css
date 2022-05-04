@@ -1,0 +1,66 @@
+body{
+	background-color:rgb(222, 244, 234);
+	color:black;
+}
+
+.divP{
+	height:100 px;
+	margin-bottom:20px;
+	background:#e2ffde;
+	border:green 2px solid;
+	border-radius:15px;
+}
+.divP,.email{
+	margin-left:auto;
+	margin-right:auto;
+	width:400px;
+	text-align:center;
+}
+.PersonalInfo{
+	width:400px;
+	height:75px;
+	text-align:center;
+	font-size:50px;
+}
+.All{
+	background:#c5efd7;
+	height:700px;
+	margin-left:12vw;
+	margin-right:12vw;
+	margin-bottom:10vh;
+	font-size:30px;
+	border:black 2px solid;
+	padding-top:12.5px;
+	padding-left:20px;
+	border-radius:10px;
+}
+.Info,.OtherInfo{
+	float:left;
+	margin:10px;
+}
+.OtherInfo{
+	float:right;
+	margin-right:15vw;
+}
+.InfoName{
+	width:225px;
+	text-align:center;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:2px;
+	padding-bottom:2px;
+	border:#2a8a42 3px  solid;
+	border-radius:10px;
+	background:#b1eeb1;
+}
+#blah{
+	width:150px;
+	height:150px;
+	background-size:cover;
+}
+.Edit{
+	font-size:20px;
+}
+.inputbox{
+	margin-right:10px;
+}
